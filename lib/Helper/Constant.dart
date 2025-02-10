@@ -4,7 +4,7 @@ import 'package:open_filex/open_filex.dart';
 import 'package:path_provider/path_provider.dart';
 import 'package:permission_handler/permission_handler.dart';
 
-const String appName = 'Admin App eShop';
+const String appName = 'Premiumgift Admin App';
 const String baseUrl = 'https://eshopweb.store/admin/app/v1/api/';
 // const String baseUrl = 'https://eshop.wrteam.co.in/admin/app/v1/api/';
 const bool isDemoApp = true;
